@@ -1,22 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d0a4e&height=220&section=header&text=FREE%20After%20Effects%20CC&fontSize=42&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=✦%20High%20Quality%20Cinematic%20Color%20Correction%20Preset%20✦&descAlignY=60&descSize=15&descColor=e2d4f0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:12001f,100:1e0035&height=250&section=header&text=FREE%20After%20Effects%20CC&fontSize=48&fontColor=d8b4fe&animation=fadeIn&fontAlignY=42&desc=High%20Quality%20Cinematic%20Color%20Correction%20Preset&descAlignY=62&descSize=17&descColor=a78bfa"/>
+
+</div>
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/-%40ridhanofficial__-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=1a0a2e)](https://www.instagram.com/ridhanofficial_/)
-&nbsp;&nbsp;
-![AE](https://img.shields.io/badge/After%20Effects-.ffx-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white&labelColor=1a0a2e)
-&nbsp;&nbsp;
-![Free](https://img.shields.io/badge/Price-100%25%20FREE-c084fc?style=flat-square&labelColor=1a0a2e)
-&nbsp;&nbsp;
-![Cinematic](https://img.shields.io/badge/Look-Cinematic-e2d4f0?style=flat-square&labelColor=1a0a2e)
+<div align="center">
 
-<br/><br/>
-
-> ### *"The cinematic look your reels have been missing."*
+[![Instagram](https://img.shields.io/badge/Instagram-%40ridhanofficial__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/ridhanofficial_/)
+&nbsp;
+![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-.ffx%20Preset-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white&labelColor=0d0d0d)
 
 </div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+# 🎬 Free Cinematic Color Correction
+
+### *One preset. Infinite cinematic reels.*
+
+<br/>
+
+> **Works on any footage &nbsp;·&nbsp; Instant film look &nbsp;·&nbsp; After Effects `.ffx` format**
+
+</div>
+
+<br/>
 
 ---
 
@@ -24,29 +40,37 @@
 
 ## 🎁 Free CC
 
+<br/>
+
 <div align="center">
 
-*High quality. Cinematic. Yours — for free.*
+### *This is what you get — for free.*
 
 <br/>
 
-![Free CC Preview](YOUR_FREE_PREVIEW_IMAGE_HERE)
+![Free CC Before & After Preview](YOUR_FREE_PREVIEW_IMAGE_HERE)
 
-<sub>↑ Before / After — Free CC Preview</sub>
+<br/>
 
-<br/><br/>
-
-<a href="YOUR_DRIVE_LINK_HERE">
-  <img src="https://img.shields.io/badge/⬇%EF%B8%8F%20%20DOWNLOAD%20FREE%20CC%20(.ffx)%20%20⬇%EF%B8%8F-Click%20to%20Download-c084fc?style=for-the-badge&labelColor=1a0a2e" />
-</a>
+<sup>📸 <b>Before / After</b> — Free CC Preview</sup>
 
 <br/><br/>
 
-<sup>After Effects Preset &nbsp;·&nbsp; <code>.ffx</code> File &nbsp;·&nbsp; Cinematic Film Look</sup>
+# ⬇️ Download Free CC
+
+### No DM needed. No cost. Just download.
+
+<br/>
+
+[![DOWNLOAD FREE CC (.ffx)](https://img.shields.io/badge/⬇%EF%B8%8F%20%20DOWNLOAD%20FREE%20CC%20%20(.ffx)-Google%20Drive-a78bfa?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d0d0d)](YOUR_DRIVE_LINK_HERE)
+
+<br/>
+
+<sup>After Effects Preset &nbsp;·&nbsp; <code>.ffx</code> file &nbsp;·&nbsp; Compatible with AE CC 2019 and above</sup>
 
 </div>
 
-<br/>
+<br/><br/>
 
 ---
 
@@ -54,69 +78,79 @@
 
 ## 💎 Premium CC
 
+<br/>
+
 <div align="center">
 
-*More refined. More exclusive. More cinematic.*
+### *Same preset. Different league.*
 
 <br/>
 
-![Premium CC Preview](YOUR_PREMIUM_PREVIEW_IMAGE_HERE)
-
-<sub>↑ Before / After — Premium CC Preview</sub>
-
-<br/><br/>
-
-> ### 🔒 This is Paid
-
-*Want this look? Slide into my DMs.*
+![Premium CC Before & After Preview](YOUR_PREMIUM_PREVIEW_IMAGE_HERE)
 
 <br/>
 
-<a href="https://www.instagram.com/ridhanofficial_/">
-  <img src="https://img.shields.io/badge/📩%20%20DM%20FOR%20PREMIUM%20CC%20%20📩-%40ridhanofficial__-E4405F?style=for-the-badge&labelColor=1a0a2e" />
-</a>
+<sup>📸 <b>Before / After</b> — Premium CC Preview</sup>
 
 <br/><br/>
+
+# 🔒 This One is Paid
+
+### *A more refined, deeper, exclusive cinematic grade.*
+### *Free is good. Premium is unforgettable.*
+
+<br/>
+
+[![📩 DM FOR PREMIUM CC](https://img.shields.io/badge/📩%20%20DM%20FOR%20PREMIUM%20CC-%40ridhanofficial__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/ridhanofficial_/)
+
+<br/>
 
 <sup>Send &nbsp;<code>PREMIUM CC</code>&nbsp; in the DM to get started</sup>
 
 </div>
 
+<br/><br/>
+
+---
+
+<br/>
+
+## 🛠️ How to Apply the Preset
+
+<br/>
+
+```
+  Step 1  →  Download the .ffx file using the button above
+
+  Step 2  →  Open Adobe After Effects
+
+  Step 3  →  Go to Effects & Presets panel  ( Window → Effects & Presets )
+
+  Step 4  →  Click the menu icon  ☰  →  Select "Import Presets"
+
+  Step 5  →  Choose the downloaded .ffx file
+
+  Step 6  →  Find the preset in the panel and drag it onto your footage layer  🎨
+
+  Step 7  →  Adjust the effect intensity in the Effects Controls panel to taste
+```
+
 <br/>
 
 ---
 
 <br/>
 
-## 🛠️ How to Apply
-
 <div align="center">
 
-```
-  1.  Click the Download button above
-  2.  Open After Effects
-  3.  Effects & Presets Panel  →  ☰  →  Import Presets
-  4.  Select the .ffx file you downloaded
-  5.  Drag & drop the preset onto your footage  🎨
-  6.  Adjust the effect intensity to your taste
-```
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e0035,60:12001f,100:0d0d0d&height=160&section=footer&text=Made%20with%20%F0%9F%8E%A8%20by%20Ridhan&fontSize=26&fontColor=d8b4fe&animation=fadeIn&fontAlignY=65"/>
 
 <br/>
 
----
+### ⭐ Found this useful? Star the repo and share with a fellow creator!
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a4e,50:1a0a2e,100:0d0d0d&height=140&section=footer&text=Made%20with%20%F0%9F%8E%A8%20by%20Ridhan&fontSize=22&fontColor=c084fc&animation=fadeIn&fontAlignY=62"/>
-
-*⭐ If this helped you — star this repo and share it with a fellow creator!*
-
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Follow%20for%20more-%40ridhanofficial__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a0a2e)](https://www.instagram.com/ridhanofficial_/)
+[![Follow on Instagram](https://img.shields.io/badge/Follow%20for%20More%20Presets-%40ridhanofficial__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/ridhanofficial_/)
 
 </div>
